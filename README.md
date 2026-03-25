@@ -343,6 +343,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode): A VSCode extension that allows you to use ChatGPT
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory): Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. VSCode extension + CLI + MCP server. Free.
 
 ### Google Docs
 
